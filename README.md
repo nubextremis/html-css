@@ -8,7 +8,7 @@
     }
 
     div#topo{
-        background-color: violet;
+        background-color: purple;
         color: white;
         border: 5px solid black;
         border-radius: 5px;
