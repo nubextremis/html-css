@@ -1,14 +1,21 @@
+<style>
+    div {
+        background-color: lightgreen;
+        border: 5px solid black;
+        border-radius: 5px;
+        margin: 5px;
+
+    }
+</style>
+
+
+
 # html-css
  Curso de HMTL5 e CSS3 do CursoemVideo
 
 Estou aprendendo a criar sites e agora vou gerenciar repositórios!
 
-<style>
-    div {
-        background-color: lightgreen;
-        border: 5px solid black;
-    }
-</style>
+
 
 <div><a href="https://nubextremis.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a></div>
 <div><a href="https://nubextremis.github.io/html-css/exercicios/ex002/index.html">Executar o exercício 002</a></div>
