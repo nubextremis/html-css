@@ -6,15 +6,23 @@
         margin: 5px;
 
     }
+
+    div#topo{
+        background-color: violet;
+        color: white;
+        border: 5px solid black;
+        border-radius: 5px;
+        margin: 2px;
+    }
 </style>
 
 
-
+<div id="topo">
 # html-css
  Curso de HMTL5 e CSS3 do CursoemVideo
 
 Estou aprendendo a criar sites e agora vou gerenciar repositórios!
-
+</div>
 
 
 <div><a href="https://nubextremis.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a></div>
