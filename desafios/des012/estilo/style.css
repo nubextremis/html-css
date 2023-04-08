@@ -18,16 +18,23 @@
     font-size: 1em;
 }
 
+body {
+    min-height: 100vh;
+    background-color: darkgray;
+    font-family: var(--font00);
+}
+
 header {
     background-color: black;
     color: white;
+    font-family: var(--font01);
     text-align: center;
     font-size: 1em;
 }
 
 header h1 {
     padding-top: 50px;
-    font-family: var(--font01);
+    
     font-variant: small-caps;
     font-size: 10vw;
 
@@ -35,6 +42,8 @@ header h1 {
 
 header p {
     padding-bottom: 50px;
+    font-size: 1em;
+    font-family: var(--font00);
 }
 
 .externo {
@@ -65,12 +74,6 @@ header p {
     background-size: cover;
 }
 
-section p.img {
-    display: inline-block;
-    padding: 5px;
-    background-color: rgba(0, 0, 0, 0.514);
-    text-shadow: 1px 1px 0px black;
-}
 
 section {
     padding-top: 10vh;
@@ -85,8 +88,17 @@ section p {
     padding-bottom: 2em;
 }
 
-section.normal {
+section p.img {
+    display: inline-block;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.514);
+    text-shadow: 1px 1px 0px black;
+}
 
+
+section.normal {
+    background-color: white;
+    color: black;
 }
 
 footer {
