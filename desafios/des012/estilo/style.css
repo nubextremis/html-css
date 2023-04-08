@@ -18,7 +18,7 @@
     font-size: 1em;
 }
 
-body {
+html, body {
     min-height: 100vh;
     background-color: darkgray;
     font-family: var(--font00);
@@ -34,7 +34,6 @@ header {
 
 header h1 {
     padding-top: 50px;
-    
     font-variant: small-caps;
     font-size: 10vw;
 
@@ -49,31 +48,31 @@ header p {
 .externo {
     text-decoration: none;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .externo:hover {
     text-decoration: underline;
 }
 
-.imagem {
+section.imagem {
     background-color: rgb(51, 51, 51);
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
     background-size: cover;
+    
+}
+
+section#img1 {
+    background: url('../imagens/background001.jpg');
+    background-position: right center;
     background-attachment: fixed;
 }
 
-.imagem#img1 {
-    background: url('../imagens/background001.jpg') right center no-repeat fixed;
-    background-size: cover;
+section#img2 {
+    background: url('../imagens/background002.jpg');
+    background-attachment: fixed;
 }
-
-.imagem#img2 {
-    background: url('../imagens/background002.jpg') right center no-repeat fixed;
-    background-size: cover;
-}
-
 
 section {
     padding-top: 10vh;
