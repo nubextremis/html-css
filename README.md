@@ -33,7 +33,7 @@ Estou aprendendo a criar sites e agora vou gerenciar repositórios!
 <div><a href="https://nubextremis.github.io/html-css/exercicios/ex007/html5.html">Executar o exercício 007</a></div>
 <div><a href="https://nubextremis.github.io/html-css/exercicios/ex008/index.html">Executar o exercício 008</a></div>
 <div><a href="https://nubextremis.github.io/html-css/exercicios/ex008b/index.html">Executar o exercício 008b</a></div>
-<div><a href="https://nubextremis.github.io/html-css/exercicios/ex09/index.html">Executar o exercício 009</a></div>
+<div><a href="https://nubextremis.github.io/html-css/exercicios/ex009/index.html">Executar o exercício 009</a></div>
 <div><a href="https://nubextremis.github.io/html-css/exercicios/ex010/index.html">Executar o exercício 010</a></div>
 <div><a href="https://nubextremis.github.io/html-css/exercicios/ex011/index.html">Executar o exercício 011</a></div>
 <div><a href="https://nubextremis.github.io/html-css/exercicios/ex012/index.html">Executar o exercício 012</a></div>
