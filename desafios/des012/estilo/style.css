@@ -56,11 +56,13 @@ header p {
 }
 
 .imagem#img1 {
-    background: url('../imagens/background001.jpg') right center fixed;
+    background: url('../imagens/background001.jpg') right center no-repeat fixed;
+    background-size: cover;
 }
 
 .imagem#img2 {
-    background: url('../imagens/background002.jpg') right center fixed;
+    background: url('../imagens/background002.jpg') right center no-repeat fixed;
+    background-size: cover;
 }
 
 section p.img {
