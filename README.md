@@ -8,8 +8,8 @@
     }
 
     div#topo{
-        background-color: purple;
-        color: white;
+        background-color: white;
+        color: black;
         border: 5px solid black;
         border-radius: 5px;
         margin: 2px;
